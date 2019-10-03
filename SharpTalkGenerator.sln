@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpTalkGenerator", "SharpTalkGenerator\SharpTalkGenerator.csproj", "{198E5187-6AC8-478C-A16F-C70BA05E53BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{198E5187-6AC8-478C-A16F-C70BA05E53BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198E5187-6AC8-478C-A16F-C70BA05E53BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198E5187-6AC8-478C-A16F-C70BA05E53BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198E5187-6AC8-478C-A16F-C70BA05E53BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BCA94CB-8C9C-4F81-92A1-156651BF6705}
+	EndGlobalSection
+EndGlobal
